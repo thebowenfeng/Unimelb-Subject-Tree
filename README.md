@@ -18,3 +18,5 @@ Requirements:
 All required packages can be found in package.json respectively. 
 
 To run the server locally, simply run `npm start`. Edit the variable baseURL in React app and change it to localhost:yourport. 
+
+Please note scraper will not be able to function as intended due to the inability to write to database. Unfortunately I am unable to grant write access in this public repository. Scraper code for reference purposes only.
